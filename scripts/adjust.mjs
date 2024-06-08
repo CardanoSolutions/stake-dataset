@@ -2,13 +2,13 @@ import assert from 'node:assert';
 import * as fs from 'node:fs';
 import JSONBig from '@cardanosolutions/json-bigint';
 
-const FROM = 208;
-const TO = 480;
+const FROM = 280;
+const TO = 489;
 
 const $ = JSONBig({ useNativeBigInt: true });
 
 for (let i = FROM; i <= TO; i += 1) {
-  const rewardsProvenance = $.parse(fs.readFileSync(`../raw/queryLedgerState/rewardsProvenance/${i}.json`));
+  const rewardsProvenance = $.parse(fs.readFileSync(`./raw/queryLedgerState/rewardsProvenance/${i}.json`));
   const stakePools = rewardsProvenance.stakePools;
 
   let activeStake = 0n;
@@ -29,5 +29,5 @@ for (let i = FROM; i <= TO; i += 1) {
 
   rewardsProvenance.stakePools = pools;
 
-  fs.writeFileSync(`../data/mainnet/${i}.json`, $.stringify(rewardsProvenance, null, 2));
+  fs.writeFileSync(`./data/mainnet/${i}.json`, $.stringify(rewardsProvenance, null, 2));
 }
