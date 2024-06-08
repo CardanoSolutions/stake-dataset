@@ -1,0 +1,9255 @@
+{
+  "desiredNumberOfStakePools": 150,
+  "stakePoolPledgeInfluence": "3/10",
+  "stakePools": [
+    {
+      "id": "pool1qqqqqdk4zhsjuxxd8jyvwncf5eucfskz0xjjj64fdmlgj735lr9",
+      "stake": {
+        "ada": {
+          "lovelace": 20671217214844
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1700000000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 2500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqqzyqf8mlm70883zht60n4q6uqxg4a8x266sewv8ad2grkztl",
+      "stake": {
+        "ada": {
+          "lovelace": 831657002142
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 150000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqqrwzy7njvjq9wph7usj5gghm3py9c97688ek8pgc7uem9cfz",
+      "stake": {
+        "ada": {
+          "lovelace": 243684839637
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 150000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqqx69ztfvd83rtafs3mk4lwanehrglmp2vwkjpaguecs2t4c2",
+      "stake": {
+        "ada": {
+          "lovelace": 43138282205
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 25000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqqdktl6pq46td0mwut0qn30g7nlue0sete9wxl0hwsq37wrw8",
+      "stake": {
+        "ada": {
+          "lovelace": 485083415569
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 485083415569
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 485000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqq4md2rfdt75qvh3x9cgmkrgkl74ctcj3fnxpu3ylcudl22ex",
+      "stake": {
+        "ada": {
+          "lovelace": 6920264560934
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250000000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqz9vlskay2gv3ec5pyck8c2tq9ty7dpfm60x8shvapguhcemt",
+      "stake": {
+        "ada": {
+          "lovelace": 1617802813155
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1100000000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 1100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqrutr85x04emqsnlacgz6drtzpvp8v3kmlkw8gpnzry67qeuz",
+      "stake": {
+        "ada": {
+          "lovelace": 381313348346
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250859924245
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqyv9pn9typyqwcxqk5ewpxy5p27g5j2ms58hpp2c2kuzs5z77",
+      "stake": {
+        "ada": {
+          "lovelace": 5811781153162
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 444174441926
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "177/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 444000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqq9tqyj69j9kygpxza3h82ynh8d0xlueucnu2yqum8nse8hj7y",
+      "stake": {
+        "ada": {
+          "lovelace": 692899900536
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50130635435
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "111/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqqg664ad0cd47787e9ksfnl2utwrxfdp6z9av3dq5r9k6qfurw",
+      "stake": {
+        "ada": {
+          "lovelace": 272061079315
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 98034643
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 210000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqq0s3u5qechnum75rvqhv3pd0k2j0glhpsp7snmcd5svcycemg",
+      "stake": {
+        "ada": {
+          "lovelace": 27618442
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 27618442
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 210000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqq0c53vaf5ju0n3fvujmyxwca0yhp65930evw9lngmr5705csz",
+      "stake": {
+        "ada": {
+          "lovelace": 4225672256451
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 210111618706
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 210000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqq6qqa0hpzvumv5p87ynczfmdj557xuwlc3289ke42g72z7f74",
+      "stake": {
+        "ada": {
+          "lovelace": 15837923097838
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 318752550000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 475000000
+          }
+        },
+        "margin": "9/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 315000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqq6qzgsa8n2uvy7pusk4fnxnwd8zx7xylycednw3ugmqxk9mps",
+      "stake": {
+        "ada": {
+          "lovelace": 2892112705503
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 316727623546
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 475000000
+          }
+        },
+        "margin": "9/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 315000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qq2vm2xpcj9kf42z4cnw3djancv48sx42chwvgxkjq85ceu8k0x",
+      "stake": {
+        "ada": {
+          "lovelace": 3493058511045
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1000100000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqvukkkfr3ux4qylfkrky23f6trl2l6xjluv36z90ax7gfa8yxt",
+      "stake": {
+        "ada": {
+          "lovelace": 305656105949
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 305459661459
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "29/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 305000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qq3pt6j05tyz3v276dkr5jp53u706s8p4xwvm2u4dh3ev5k6x6q",
+      "stake": {
+        "ada": {
+          "lovelace": 119118377755
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 111495799456
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "29/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 111000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qqlf3epa7m8780p2jx5689u2ql06tw026l5377tptk2zswrc645",
+      "stake": {
+        "ada": {
+          "lovelace": 7624558
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 7624558
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qpuzf5kcxrmuf6qg2nnu9cs7hj2d6ke3fwz58l7rlefcy50caaa",
+      "stake": {
+        "ada": {
+          "lovelace": 126097642339
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 107099440005
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000003
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qzlw7z5mutmd39ldyjnp8n650weqe55z5p8dl3fagac3ge0nx8l",
+      "stake": {
+        "ada": {
+          "lovelace": 14198664924835
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250497265308
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qzlwlpcsgflr9z3f24fg836tyq45p0kf5cnrp20s8v0psp6tdkx",
+      "stake": {
+        "ada": {
+          "lovelace": 36646060542746
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250497436309
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1q80jjs53w0fx836n8g38gtdwr8ck5zre3da90peuxn84sj3cu0r",
+      "stake": {
+        "ada": {
+          "lovelace": 1318745636063
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 51890538374
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qvvn2l690zm3v2p0f3vd66ly6cfs2wjqx34zpqcx5pwsx3eprtp",
+      "stake": {
+        "ada": {
+          "lovelace": 946492525006
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 27722842950
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 27000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qwa8x4u4a2pff0xdv0haxpgk3tyrvl5adl2lpf3ztcftqruhea0",
+      "stake": {
+        "ada": {
+          "lovelace": 8801003646480
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 302097096727
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1q0memmdw4ktr88fkma53tqgkaqeq3wfc476le59rped4cu8tn4h",
+      "stake": {
+        "ada": {
+          "lovelace": 418654810690
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10040635866
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1q3xdrewrldt06rpjx6pzguzm847ujxnmajxrsr7dsthscz4htlv",
+      "stake": {
+        "ada": {
+          "lovelace": 816706160453
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 200001269180
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qeyjycp9ef0drrzaq3u9ylwclqa56zl5n4yd75txw92csug3mzn",
+      "stake": {
+        "ada": {
+          "lovelace": 604597620114
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 604597620114
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 600000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1q66d2n39uvln4hazyzv8fyq977mpqus78sjd2369qfn7cptdeyh",
+      "stake": {
+        "ada": {
+          "lovelace": 1798297246668
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445857
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1qumhc7996vjx0kvvqwruj7af9w5gq7kh9045aqp9hurp76zgrvy",
+      "stake": {
+        "ada": {
+          "lovelace": 162419231500
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 119497624910
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "21/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 118999000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1q7ukp0ajfusagaqy8arsxnkk97yl3tqa8aal3sts5tw8kuq4jlw",
+      "stake": {
+        "ada": {
+          "lovelace": 10507619190
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10507619190
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1py2uxkvuj926h42s40wxl26dh0ggaq882v4m0hkd99m86vzmwnz",
+      "stake": {
+        "ada": {
+          "lovelace": 3326597861125
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100098619894
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 100098000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1p9sda64t6l9802tsu2fj6phvt9xfqgcpjucyr3kek8wzurmn8rz",
+      "stake": {
+        "ada": {
+          "lovelace": 302875621448
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 496000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/80",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1p9sjhjx0v3k76wvgdqu7jcks2ra48wqlhc6g0mkewd25k3zcymy",
+      "stake": {
+        "ada": {
+          "lovelace": 163520827576
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 159147623854
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9787/200000",
+        "pledge": {
+          "ada": {
+            "lovelace": 158900000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pg2k7lp6w68vlvdycug2ycu3mkrt0z4ftxay4g8zchj87mw6ug8",
+      "stake": {
+        "ada": {
+          "lovelace": 4762439669833
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 65961427377
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 66000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pgnhp0rwruxw8mz7z2k5273dyqn4aqpujmd6lqgf3dt5z333a9w",
+      "stake": {
+        "ada": {
+          "lovelace": 374970977815
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 40597630234
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 40000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pfprlfz0ywcnewjegazz05ghgcfkvu40v6edsz6yn8w362sdjr8",
+      "stake": {
+        "ada": {
+          "lovelace": 53272624426
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 53272624426
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pf38y47whkqua0pkd7redeh6nhlvff6kckx8x9hxzlx8yakmruz",
+      "stake": {
+        "ada": {
+          "lovelace": 125524937738
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 119497624954
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 118999000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pf6yhzdr9vpct5rc3dtwersl4lyuglp80l4jc67kf2qj29xjg2u",
+      "stake": {
+        "ada": {
+          "lovelace": 1497251756
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1497251756
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pvu2zdexh8wr4ggmuz90jvqrua6an43qj9m9urs785p8kwjzqwl",
+      "stake": {
+        "ada": {
+          "lovelace": 1739865293814
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445857
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pshqcksxywy68lt04lw6uf35f4yssekh5dx2mxqmyrukke2z5y3",
+      "stake": {
+        "ada": {
+          "lovelace": 7997746281053
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 750040000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 750000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pk7cjkcdsawxf25dwml0ely8vhjx7wp7nqans3jwatanceyqae0",
+      "stake": {
+        "ada": {
+          "lovelace": 1078485618040
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 300199620158
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1p627hhec2ha6wu6ql377c3hv4mjd26w7ll0xyw2ezgnu6nyl0a4",
+      "stake": {
+        "ada": {
+          "lovelace": 775975216943
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100497618442
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "39/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pmrgd8snhv0nnj97xcg70nqqhg0v9g3d0e93jl8vn23wxtsxz53",
+      "stake": {
+        "ada": {
+          "lovelace": 2397781079339
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 200497617694
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1pu5jlj4q9w9jlxeu370a3c9myx47md5j5m2str0naunn2q3lkdy",
+      "stake": {
+        "ada": {
+          "lovelace": 8647568472880
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 510497600000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "49/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 510000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1z033qtxzsn7c9az4fzz8z0ewnynzcuq2dy54v6tfyqz5vfjkmv0",
+      "stake": {
+        "ada": {
+          "lovelace": 391036480202
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 280497616286
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 280000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1zsyqzr04g5pr3nv7vfk8ldc3uf0xljc8yftdsqpxxqpychpxj65",
+      "stake": {
+        "ada": {
+          "lovelace": 473488772548
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10498431953
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1z5uqdk7dzdxaae5633fqfcu2eqzy3a3rgtuvy087fdld7yws0xt",
+      "stake": {
+        "ada": {
+          "lovelace": 6371904605974
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 450118629838
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 450000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1z7n2ruhmxmv77f6cqhd3wsy6774h2wuay77agxuf2y9mj8q55vw",
+      "stake": {
+        "ada": {
+          "lovelace": 22803726990557
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1rvng7n968748udkc5rxy4h9zp9hms4s3jsfwuues76ft28uc056",
+      "stake": {
+        "ada": {
+          "lovelace": 26894288411014
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 515009600000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 515000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1rd0cadxrmef8fl99e2ms3tytzq874m2ahraaexfrhpnr67d7s8a",
+      "stake": {
+        "ada": {
+          "lovelace": 1507674511855
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 803487448541
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 800000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1rshru8pm6y0jy7jncmt6qzfs8u4f5qa5gvyh38kgec767t20z3d",
+      "stake": {
+        "ada": {
+          "lovelace": 290424417179
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100429061281
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "27/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1rjv02n5qtyden5frvyy34udlz3nqtkyu742mghcsww8nk4qycsh",
+      "stake": {
+        "ada": {
+          "lovelace": 101078270086
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 75502700000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 75000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1rj6apcqxcvavaxp22f75zs9upphena7ntsnut2efvq98g4404up",
+      "stake": {
+        "ada": {
+          "lovelace": 135107608604
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10496914858
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1r4rwd64q8xk36m6w2vsq48zfcmfxj0dxypcqdpmy2hnwg9vwv59",
+      "stake": {
+        "ada": {
+          "lovelace": 13703702498191
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 938328346
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 400000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 740000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1rkyc3ss904h066sffergss99r9p2kqa4k6ds0g4u5ud4x7yaajd",
+      "stake": {
+        "ada": {
+          "lovelace": 12438080930028
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1rmwclmeutcdd7f0sktcevwa6ewaphxezgeqk5hcfswvpkaq2hmg",
+      "stake": {
+        "ada": {
+          "lovelace": 701828171885
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 500000000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ru2zh42397d6dyxdzslw5p6z4cewj38npl7prpjskv7fyl0gpga",
+      "stake": {
+        "ada": {
+          "lovelace": 685813169141
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 20097639650
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 20000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1yyv7vx5zhhsd60jp4tl72vpznwvpvjp35m4z7jr42ugkxmndyv5",
+      "stake": {
+        "ada": {
+          "lovelace": 1287177666346
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 53020033807
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 53020000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1y9tz9enfcrcvpxpga3qspfxx3xclns2g74ptqxftdmgq6ghyrn0",
+      "stake": {
+        "ada": {
+          "lovelace": 443249633486
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50546648949
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1yxhf37v04q6cyrf8a4g64xsmvepwg5t2zc0qcquqjlph55ye2ef",
+      "stake": {
+        "ada": {
+          "lovelace": 554209117364
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 106061622886
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 105000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ysm66fawxhayjqfhgr54fzspp3yktdmepxvqm86xshhksj0qezh",
+      "stake": {
+        "ada": {
+          "lovelace": 459492460997
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 429949429005
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/250",
+        "pledge": {
+          "ada": {
+            "lovelace": 429300000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1y53awxsm6cmksp8qht8qfq5f5c69t6mrgrdcresk5y0ecv2yj93",
+      "stake": {
+        "ada": {
+          "lovelace": 420485170089
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 200597620158
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1yam2wu7nw384zjtset09u4ef75uy840mjru39nuhm0xaqj8lw78",
+      "stake": {
+        "ada": {
+          "lovelace": 343392645655
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 149496035919
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19ygh8apuc2qz0u9kr4wj9qj33xhw70n7z286xll0g6ltgccuq42",
+      "stake": {
+        "ada": {
+          "lovelace": 451297533925
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 196498621522
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 196000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19xhza3f7nye6j5p6stsnkpvadejztnqvck0ge3l2uy9gvsvy05f",
+      "stake": {
+        "ada": {
+          "lovelace": 107609334697
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100047624118
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19f6guwy97mmnxg9dz65rxyj8hq07qxud886hamyu4fgfz7dj9gl",
+      "stake": {
+        "ada": {
+          "lovelace": 342334574915
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 81870959205
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 80000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19vpp0udh6qtu5dv9dwssamqsttx7z7n9ml2wed67j0pdkck9vnj",
+      "stake": {
+        "ada": {
+          "lovelace": 2180874398189
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 712496624470
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "23/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 711886000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19wr27r3dqt77nd0qv7zcwzajw8fl3y0v69x5pf63sznuugg9p35",
+      "stake": {
+        "ada": {
+          "lovelace": 184381388492
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 45004624206
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 45000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool190a9js7lk9lvmrngre7w268z9tz9xs9yz77audvw8ag4jerfdhx",
+      "stake": {
+        "ada": {
+          "lovelace": 1676096647086
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 307197623986
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 307000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool195gdnmj6smzuakm4etxsxw3fgh8asqc4awtcskpyfnkpcvh2v8t",
+      "stake": {
+        "ada": {
+          "lovelace": 6982299603593
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 502500000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19kqzpht4lz9q0pc26f3nvw0ggwznv3xfhhvm2wlkxce4srjm5p8",
+      "stake": {
+        "ada": {
+          "lovelace": 664988658182
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 600998640442
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 600000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19ejln2jcpg5dphc8m5nh8sya49sycsqj0v2cjxw6nku966cc8nu",
+      "stake": {
+        "ada": {
+          "lovelace": 988232080327
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445813
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19uynx6nxcdksmaqdcshjg487fap3rs3axyhrdqa7gdqgzgxss4y",
+      "stake": {
+        "ada": {
+          "lovelace": 10175524891259
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445461
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19u64770wqp6s95gkajc8udheske5e6ljmpq33awxk326zjaza0q",
+      "stake": {
+        "ada": {
+          "lovelace": 1990470904232
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 275496000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/250",
+        "pledge": {
+          "ada": {
+            "lovelace": 275000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool19ae6xhzsscypyha0sszv90xwjsh20hxecxjpcqynshfawvwxqnn",
+      "stake": {
+        "ada": {
+          "lovelace": 4070060385410
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1000201627547
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xrrrr8gldqz8pjxj6j8c638a9py04xuv66kfgn2dlsx9g52te0t",
+      "stake": {
+        "ada": {
+          "lovelace": 6005450265766
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445769
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xxhs2zw5xa4g54d5p62j46nlqzwp8jklqvuv2agjlapwjx9qkg9",
+      "stake": {
+        "ada": {
+          "lovelace": 13946374324343
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497430281
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 425000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1x2h98z6e5xvrg5zw3v3dlu8hqdtj6lhp6r3w5ge7rvcqcx3pafq",
+      "stake": {
+        "ada": {
+          "lovelace": 2876121504140
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445593
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xt8ap3qu32mxan6kahesqx5kek4lw52u5hqp2zpsdgskca56ahe",
+      "stake": {
+        "ada": {
+          "lovelace": 1645589031354
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 634405624470
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 633330000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xt0z35f0ms6xt5r8swhtd2xcymqxvk42m8fk5q8fnw8hjhr6yax",
+      "stake": {
+        "ada": {
+          "lovelace": 1772109715960
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100097616462
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xsyl4mgg08httw4mw7z2tjnzm839e7rh8es5sngwqmvgq2qk235",
+      "stake": {
+        "ada": {
+          "lovelace": 144979316072
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2007622094
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 2000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xs34q2z06a46nk7hl48d27dj5gzc6hh9trugw2ehs9ajsevqffx",
+      "stake": {
+        "ada": {
+          "lovelace": 59324042459
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 40497639738
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 40000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1x3ygjnc4q7akd4axphpztl88fu8k2rt6tuxucsrmhe7tvvggr57",
+      "stake": {
+        "ada": {
+          "lovelace": 19507096336
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 19507096336
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 17500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xh0kehvrn64azddplff6gfycc86cjcrjs6zlznfcdk3f6wj86ed",
+      "stake": {
+        "ada": {
+          "lovelace": 2053876584513
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100274622449
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "29/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1xaxps54m30n35fegcweum3c86pr7xp2mmcvfsd007v9ps9xu8js",
+      "stake": {
+        "ada": {
+          "lovelace": 100837078519
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100498451753
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool18xykgvvvxej2e5ap04ks72d8fdke4qsqeh30satznyrtj88634d",
+      "stake": {
+        "ada": {
+          "lovelace": 2090847164927
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1000007279916
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1829u4wxz0hdatsc0sczd0r3362wxk82qlqncjw5ksx7ngne07w0",
+      "stake": {
+        "ada": {
+          "lovelace": 99406083678
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 87098629794
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 87000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool18v9r8afalh50l4lstct2awdc3zspnvurcs7t45nv29uc2mnxc6c",
+      "stake": {
+        "ada": {
+          "lovelace": 1920634504702
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 301497420997
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool18vc3pleuqzejkvlkls7qqw3ps9gyygrenqpypma4yp0gjjrm3uf",
+      "stake": {
+        "ada": {
+          "lovelace": 6285013015831
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 301499431645
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool18sqt4qwprlt6ytg8pu2qpz262j9vhlzmtwn2fwvhpcnzc0u5ynw",
+      "stake": {
+        "ada": {
+          "lovelace": 12930488748
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 607618662
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "3/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool183j8g5lmry5jsnua6mw5jhwdacwhkrnqfpga49v0qg6wjmwndfv",
+      "stake": {
+        "ada": {
+          "lovelace": 338669152484
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2047623062
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 2000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool18hzjrr0xhadznttzq0va5vdhz2xyzjrju5ac7ztkwajdg80uvw4",
+      "stake": {
+        "ada": {
+          "lovelace": 5145570257164
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1200028831566
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 1200000000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool18eg6yk8m5jmy50rhywkjwrsuawrzzcr88p9h2pu5v0rj2mxsv5y",
+      "stake": {
+        "ada": {
+          "lovelace": 6436589803468
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 89386629530
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 88888888888
+          }
+        }
+      }
+    },
+    {
+      "id": "pool18axt9r7z8eg0udd9xxzc4r2u9x322wfrtq3928jzye4ey3jytgq",
+      "stake": {
+        "ada": {
+          "lovelace": 188494643592
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 20502339673
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "29/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gppqnqfguctp6gu0q8l5wjhye0ny28yzfx93hkr384cfsezru0f",
+      "stake": {
+        "ada": {
+          "lovelace": 81497619982
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 81497619982
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 81000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gpz25s2aasmqnh9tg8a2rxmyxuvmj5s779htxk295e9ajnzjflc",
+      "stake": {
+        "ada": {
+          "lovelace": 334091411863
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250296619674
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gyvjd6n3t88lyyhzd8juqg0fnzq2kwlmnrggd4wghf8r7wndz4v",
+      "stake": {
+        "ada": {
+          "lovelace": 192666418698
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100047620554
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gtphgrdj8sluxm9e7ca2spcwcq2p0dxj9zf5v0yv3gsagzq704n",
+      "stake": {
+        "ada": {
+          "lovelace": 15734726386562
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2762875620158
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "37/2000",
+        "pledge": {
+          "ada": {
+            "lovelace": 2700000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gwnu7f7qgaruxph8gn3u28qphvquvnj63elyd3r0nndacj9g9pa",
+      "stake": {
+        "ada": {
+          "lovelace": 1994910418119
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 499254088
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1g0hsnjnt0du3kp33gjua3npncngr3yg4ak2zfdhd4zvmy6r8hyd",
+      "stake": {
+        "ada": {
+          "lovelace": 515453822584
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 437505000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 350000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 435000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1g5gmej3cj67td4pmvmacnls8nuq0gjld2pwfeg3jwpxujdx6lmu",
+      "stake": {
+        "ada": {
+          "lovelace": 3529016849379
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 8600862761
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 125000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gh4cj5h5glk5992d0wtela324htr0cn8ujvg53pmuds9guxgz2u",
+      "stake": {
+        "ada": {
+          "lovelace": 1015043385703
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 101437321
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1001/100000",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gclysx2h7fndj0jdajlmwvqr8q9tzu3rurjknacu0ff954fsg9a",
+      "stake": {
+        "ada": {
+          "lovelace": 8635036781158
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1g60m45m23f5vta30x5z7e0n2gc02yc4wyz6darfeluy2kgu65fa",
+      "stake": {
+        "ada": {
+          "lovelace": 956301744216
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50546648949
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 51000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1gm4mcrf8mytfetsj6ykulrmv4j70y7fhceawgdg2h09t5rtt7cf",
+      "stake": {
+        "ada": {
+          "lovelace": 54343264451
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497623898
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1fyp482ntshhm9zfz4nv7pmsaeakscf5mnuzcxuvtqf6t56fc7l0",
+      "stake": {
+        "ada": {
+          "lovelace": 384138510010
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 396256153
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "19/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1fxl5v404w7rjk6k4xlhxqp2mcp7t6quu7amyddmnqhy5vn40h5y",
+      "stake": {
+        "ada": {
+          "lovelace": 468014947829
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1507617166
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 960000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ft4xjlz9uw0r0ewcgtkgeakqrfc5azxmxwsm5pt94dv67mw4rgd",
+      "stake": {
+        "ada": {
+          "lovelace": 5049350119597
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 86471447163
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 85000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1fh4sh2telea0tfdy39h0drx6uq566yt9gf24edpz7335sclx39z",
+      "stake": {
+        "ada": {
+          "lovelace": 3046315592180
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 495400000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1fuzqy5r9x98826zv6wp40tr27uplemmstkd57cuw8jh5v5m90vn",
+      "stake": {
+        "ada": {
+          "lovelace": 2002394164462
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1709497639298
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 1700000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1fu567g42mlv9f7enek7zeh94c0aht98w44du7s29t0elzd9yazz",
+      "stake": {
+        "ada": {
+          "lovelace": 695702421781
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 42258048
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 42
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1favrzvccjq5ctetwurtrcxe734c7zlh60f4d62av6art527tssd",
+      "stake": {
+        "ada": {
+          "lovelace": 337223997127
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497620202
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool12fclephansjkz0qn339w7mu9jwef2ty439as08avaw7fuyk56j6",
+      "stake": {
+        "ada": {
+          "lovelace": 944389431
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 944389431
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 60000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1223lffkp6apdunf3prnfz5cra8fy2m2sdkazkls2wky3wdguw59",
+      "stake": {
+        "ada": {
+          "lovelace": 268564328861
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 159497620290
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 155000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool12vs4c3cm0tr49c7alrevfs0xa5g3s4al4fn46h33e69uusat04v",
+      "stake": {
+        "ada": {
+          "lovelace": 4138803552033
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2500000620862
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 2500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool12jz7ey8jtd9ek3x2ysxaxsgfyu62ppaljrc3rzs4z6ydvx9rcs8",
+      "stake": {
+        "ada": {
+          "lovelace": 166018775013
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50047414925
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool12nz4esgsex6zdq9q0208gw9zkdrt3f42rrkefzaxqaqzzlwjku7",
+      "stake": {
+        "ada": {
+          "lovelace": 154137697077
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10497622754
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool12584mjtgz3fhgpx823qht56gycnfnezg6aqqthazv4qdxkd5c46",
+      "stake": {
+        "ada": {
+          "lovelace": 9202558952
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 107076707
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 28000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool124lm97s6f4satl7xz0ulzgg6tv30tskry3zcntwrz68n60v5yne",
+      "stake": {
+        "ada": {
+          "lovelace": 6051724758774
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50497620246
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool12ehtdu5hfffpeqg968gtpqcnjv7hwfj3tshxcw8lg37tqcquhaq",
+      "stake": {
+        "ada": {
+          "lovelace": 1147831308775
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 674125427817
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 672000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool126mkma8nv5axltmz7mmg8qz9e70nmhnf58hwx5772fhwgkhk6ag",
+      "stake": {
+        "ada": {
+          "lovelace": 574270311816
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 301507624998
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool12mmcc4rc2fzfv7gyv8h06nvnsrm3m7erzdv8x6gzvjxlu2lf09n",
+      "stake": {
+        "ada": {
+          "lovelace": 17381357090841
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1tpr44v3pxth9j0ff246dvsryxpanxwx52f024ws3ecvn72sgv55",
+      "stake": {
+        "ada": {
+          "lovelace": 240356756667
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 130087620334
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 130000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ty7lh3nvtwxlcpqg2x30fkr3j9ys6nprztr9m4zp3aajxyjk2vz",
+      "stake": {
+        "ada": {
+          "lovelace": 31016042521
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 247625306
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1txtq2n2jefg7rqja2ls69qfc7tke2ll9xvxd3dwj3tcfstmjgsu",
+      "stake": {
+        "ada": {
+          "lovelace": 26658963628
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 9997624734
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "157/5000",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1td7uzl5yfd38w682q6asnkdhpynlwj8utkfnk70nusnxck2acmh",
+      "stake": {
+        "ada": {
+          "lovelace": 249903297052
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100598632566
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1twu4rn366744tqq9g66ruy3rete6842z7nnm4vy0q5jaqd48867",
+      "stake": {
+        "ada": {
+          "lovelace": 941095273756
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 940597616902
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 940000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vq0zje42hmm83pczyf5w467m76x779glymsk2c7zcm2wgnct4pc",
+      "stake": {
+        "ada": {
+          "lovelace": 101437541
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 101437541
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vquhv3kh6xkklckaenl8alyuhfsld57ef5573aqauueyqacx4ak",
+      "stake": {
+        "ada": {
+          "lovelace": 6527196891200
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 300507221088
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 3000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vxz0deezj5c2950e7arpzfqxzq8zd9kawsullrzjw5rsq0yhxgr",
+      "stake": {
+        "ada": {
+          "lovelace": 57983999122809
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499268168
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vx9tzlkgafernd9vpjpxkenutx2gncj4yn88fpq69823qlwcqrt",
+      "stake": {
+        "ada": {
+          "lovelace": 4877059949269
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 487400000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vxvdypctdecvc2j7xu9y8h2fdxvkpjy2pp8luwg2h6dx5jlv0nk",
+      "stake": {
+        "ada": {
+          "lovelace": 6229633641390
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 300497617694
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1v2rhtaxs55lspa2zm5ggeuhsave7nxtu800yng36nefs5jhzl80",
+      "stake": {
+        "ada": {
+          "lovelace": 3616242
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 3616242
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vvh72z8dktfy2x965w0yp5psmnyv3845pmm37nerhl6jk6m2njw",
+      "stake": {
+        "ada": {
+          "lovelace": 50304011350
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50207620114
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vnsfv2qpt5gxte9prupjey8kw7ap7t6c8lc02ks4s3gtqplhgd3",
+      "stake": {
+        "ada": {
+          "lovelace": 8556929494864
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1v4wgyctxyxlcf90qtgflznv5f4fcm6cy0z80mchctekt20d3cww",
+      "stake": {
+        "ada": {
+          "lovelace": 5028207680469
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 305507616242
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 305000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1v4adhelnswa7pwv2njn5h84atw08mlc79ll2ewl2kgxhv3cqwql",
+      "stake": {
+        "ada": {
+          "lovelace": 1374906301773
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 22462709
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 5000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vc8jp7uagxgh8trzx7r260ndcydz89ges8sws05cyv7jj8q8gqs",
+      "stake": {
+        "ada": {
+          "lovelace": 6663880829475
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 501547444669
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vc8jhqtwjrjwsfk6a0enx47hd2ufg98c34ta6lvl0zv0uhpech9",
+      "stake": {
+        "ada": {
+          "lovelace": 13647689345
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 30000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vemm9tq77upd9m6wtu7edw8wtju3ymnuq9wz43cfn35qk26ddqq",
+      "stake": {
+        "ada": {
+          "lovelace": 180827382332
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "7/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vmj2h5vwgc369g9v4lym57rg84t8sh6twn2sc75cr3pdjcg90gt",
+      "stake": {
+        "ada": {
+          "lovelace": 34541688739
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 49906586
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vayu3mf4qgudxeelywy5jxjxaz56ycyr03trp4m4q7925mwv5ct",
+      "stake": {
+        "ada": {
+          "lovelace": 92997998284
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50297624030
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vafsg5t78rnx3qr3fv7ys9h50pnvxqhd4l8tj629l5zk7tc39ch",
+      "stake": {
+        "ada": {
+          "lovelace": 2729116383375
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 9302443786
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 125000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1vl99h80muwfaljg59nlc359xsxlpzkffxqtyvfmnvvz4zdkekvj",
+      "stake": {
+        "ada": {
+          "lovelace": 2500103542844
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100012620290
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1dpu6kslgxlg3ccrwxldl8e6r7ylnq0yalafmucp0yc7k6qegtt0",
+      "stake": {
+        "ada": {
+          "lovelace": 1698759000872
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1100621126
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1dy7tz7eyf2qal2jcns4qwm4xqn34gc4rj9dz34kfs6zuju477k7",
+      "stake": {
+        "ada": {
+          "lovelace": 581076811591
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 286277198159
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 280000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1dxkf7k3qwnpgpxqfye8y9jvk7lver3fk8dq7c4dpzezyyx8cf5c",
+      "stake": {
+        "ada": {
+          "lovelace": 4232973032306
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 967295729176
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 967000926489
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1df9rj4n0t3zlpak7xnh4ue6t3yh9zlw7a02w4l8askp77up25rt",
+      "stake": {
+        "ada": {
+          "lovelace": 1711387753777
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 200498624910
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        },
+        "margin": "13/400",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1dvla4zq98hpvacv20snndupjrqhuc79zl6gjap565nku6et5zdx",
+      "stake": {
+        "ada": {
+          "lovelace": 772988095637
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 21500262404
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 20000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ddgcpgjcyawxw95se9x8qnc8gxgwjr4fqrk4vk6v9x47s0ggpjp",
+      "stake": {
+        "ada": {
+          "lovelace": 8305741647890
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ddskftmsscw92d7vnj89pldwx5feegkgcmamgt5t0e4lkd7mdp8",
+      "stake": {
+        "ada": {
+          "lovelace": 6449177162087
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 3300495800000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 3300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1dsqxx4ehzudlaygj5p75eptkdz3kzwcck9qrft4aq02a5vf8agf",
+      "stake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 59000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1djg8jsygtculv3q2qdrxtnpxfq003pdxcvlw2pvfupq7jm5xpgp",
+      "stake": {
+        "ada": {
+          "lovelace": 760557491520
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 109497622094
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1d667gxendhtww73876gztgal56zhyt57rtcmev4r5a6sgcrm3v9",
+      "stake": {
+        "ada": {
+          "lovelace": 1616617210
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1616617210
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "33/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 555000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1dmqzwuql5mylffvn7ln3pr9j7kh4gdsssrmma5wgx56f6rtyf42",
+      "stake": {
+        "ada": {
+          "lovelace": 5353390130478
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 569495615846
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1duzuav0k4r8jx9hx7c3avpyr2c9hc4muf0nv6f2n6ea47e9x5zf",
+      "stake": {
+        "ada": {
+          "lovelace": 91898146209
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 101437321
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "999/100000",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1d70vllztcsgx3ku8h5vnukzz2a7lpzjxfjmuqqvxtj9kq27hygs",
+      "stake": {
+        "ada": {
+          "lovelace": 365532594812
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 231597620114
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 230000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1wz27a9pvd2jat98s375lxaaj7qxy405km4vzp83wn5vtwp59kvh",
+      "stake": {
+        "ada": {
+          "lovelace": 440158746488
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 120498617342
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 120000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1wym4qkxsvqejxqn4l55y9z708mkxc36qge28qevrvp056fe7dxg",
+      "stake": {
+        "ada": {
+          "lovelace": 1312943647296
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 5497424297
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1wxn9nsl8rvxa6r8e5eaak0ml6etfxnz2n9vqrmsw5nzgyexgkrn",
+      "stake": {
+        "ada": {
+          "lovelace": 4558980905271
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1000010000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1w8ham64lthvzzxzn5hknq4yrj8xt2nark409s2xmntlwvt4ag3r",
+      "stake": {
+        "ada": {
+          "lovelace": 23401019005709
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ww8szkqd5mxajl5yf7csff30su5k23g9dk24npwkvp8rvdsn3l9",
+      "stake": {
+        "ada": {
+          "lovelace": 723725300608
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 317107463
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1wjsshqjpl3n6zlscnfvyy9gxklkav2dvfyprfye6l0kewyvv6yj",
+      "stake": {
+        "ada": {
+          "lovelace": 2371069521745
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 554497628606
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/250",
+        "pledge": {
+          "ada": {
+            "lovelace": 550000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1whk6lawmfz4zq5fw8zghglp23452gnm9zgs59nqafhpexwcvute",
+      "stake": {
+        "ada": {
+          "lovelace": 227058634801
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 159147623898
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9787/200000",
+        "pledge": {
+          "ada": {
+            "lovelace": 158900000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1we0xjccr3vc4ypnmhzsgwp7sxpsytu8dtv0syeqmtrllvcex68q",
+      "stake": {
+        "ada": {
+          "lovelace": 522266672921
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 350492542452
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "17/400",
+        "pledge": {
+          "ada": {
+            "lovelace": 350000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1w6l6rvhxtym5psec3mvgrjlg28d6hrv8g9jjexadzmxfgndfg2f",
+      "stake": {
+        "ada": {
+          "lovelace": 125122812522
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 29548620158
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 29500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1wm8vnvdqpy0hhwrwfzru0lf75pknq6pnw6garlzzqks8x0ptz57",
+      "stake": {
+        "ada": {
+          "lovelace": 121507072803
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 120634427245
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 80000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1wm5quxelvgk8q50jyfznf9asvelp9zf0tk2wu4jazlw9yj4uctw",
+      "stake": {
+        "ada": {
+          "lovelace": 491942650624
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250501112714
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1w7c2j0px43jmudhf48ezp7dy8j7904c9l3wc7809lhh2z026hch",
+      "stake": {
+        "ada": {
+          "lovelace": 148730906471
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 148730906471
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1wll3vr4v605eap9hpjfpda5cjegqfkjt8hrz3kkxpnffqejhav3",
+      "stake": {
+        "ada": {
+          "lovelace": 56218572559
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 4551378814
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "27/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 4500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10qmnswfc22zm0fscg80gkwqz65ujwjkqmctv8g9l9l58wqtelgg",
+      "stake": {
+        "ada": {
+          "lovelace": 1581217426990
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 40497621698
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/125",
+        "pledge": {
+          "ada": {
+            "lovelace": 40000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10quq4wlghwrvmhdzc7geq22pyhzegccwj56ax2g8hx0cjfahufs",
+      "stake": {
+        "ada": {
+          "lovelace": 9590732180993
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10052230900
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10p3g22454ly7eaurlur5wc9d9ual2fnfwy7a6e7k09z3yf929k9",
+      "stake": {
+        "ada": {
+          "lovelace": 1710017848097
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 380829419869
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 420000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10zyf32q3w3n9x940j6yqgkwuegzn77p94wcmpku6gvmrqw8a97d",
+      "stake": {
+        "ada": {
+          "lovelace": 527297331892
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 25911874042
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 25000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10zdg2macln78u7h2uh3jxudxam6y0an8sa4dcmm5k86j536cmqa",
+      "stake": {
+        "ada": {
+          "lovelace": 2364804329556
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 58897740546
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "19/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 58000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool108zdflss3ayqlm5c7vr6mtqj2uwl99vk28ur8dv4zswdzt6yauc",
+      "stake": {
+        "ada": {
+          "lovelace": 3804250204875
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 803137445945
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 800000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10tqeu6d03p6rnalqlvdshmpsljxaq2c0ww6draq6xm8lgyl2a3p",
+      "stake": {
+        "ada": {
+          "lovelace": 783851279387
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 200004353733
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10s3paykwusv3zpfn9wkrzfvw6pch5tlcklwftj00a79yc3h0tgx",
+      "stake": {
+        "ada": {
+          "lovelace": 457689576819
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10018622534
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool103gv6hc8ux9tvu7597f4806fayzeyvrn2pp338ndztgl6jg29mf",
+      "stake": {
+        "ada": {
+          "lovelace": 18042832656
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 18042832656
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 17000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10jn0wjlh9y3w2ygq84u2llvlnxfz3lc4g0ssqlmpp3w3y2d2lw5",
+      "stake": {
+        "ada": {
+          "lovelace": 7978447450980
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 97622050
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 597821255
+          }
+        }
+      }
+    },
+    {
+      "id": "pool104re5tajgh4mpp7c744khap56lf609cfjlna5ysjkum8qn8fel9",
+      "stake": {
+        "ada": {
+          "lovelace": 25294854171
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2497430325
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 1250000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool104fdj0xdhr8cqedwn0lf8dk206ryn62kn8mtyym020nuxthjgvj",
+      "stake": {
+        "ada": {
+          "lovelace": 2220444312569
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 76567620510
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 76000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool10capak8jppvj8h46e35xdth6h22pahtr3lcgscrpa06jzv0xn8w",
+      "stake": {
+        "ada": {
+          "lovelace": 4177272438585
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 400770247972
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 400000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1spus7k8cy5qcs82xhw60dwwk2d4vrfs0m5vr2zst04gtq700gjn",
+      "stake": {
+        "ada": {
+          "lovelace": 14294717491439
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445725
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1sx4e8rvx2xdxgkww2fpjtmvrnaftfrtfge29xcn72hh7kch5snf",
+      "stake": {
+        "ada": {
+          "lovelace": 248205221496
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 5497424341
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1sffl322qgsrsmkcedzzwk05396dkmj56pcepqvj6px3n2re3qu4",
+      "stake": {
+        "ada": {
+          "lovelace": 2092764931496
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497409733
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1svzk9ckds6r83nvg2k7w9hszza2haqd9zu7fuyg37e8gg3dylrf",
+      "stake": {
+        "ada": {
+          "lovelace": 97620466
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 97620466
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "3/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1swe9nsv8lzugakjkfv04dn38scmq48wzynmn0lxasupuzmqcgjm",
+      "stake": {
+        "ada": {
+          "lovelace": 3440482667373
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 105507619982
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 380000000
+          }
+        },
+        "margin": "21/2500",
+        "pledge": {
+          "ada": {
+            "lovelace": 105000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1s0t2vw6hsjlkzdax8cd4ae2gjsx0kwv3qn9005s0w7y9z2jup6x",
+      "stake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 375000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1s046e0lj2tdmgydwye75h2yjgchzpa4q6jtemwds4wfh752gyr4",
+      "stake": {
+        "ada": {
+          "lovelace": 2618662
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2618662
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1s0cfkzheywsftgwp0yz7sq4rt5gyf7t5kfwj5a269kpxvndjn6q",
+      "stake": {
+        "ada": {
+          "lovelace": 3736195693996
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 281283441369
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 280000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1s3z5qsg75dar26ykyzcz2u8wc2swgq7pyp7f9sdh5n06qh3jhq2",
+      "stake": {
+        "ada": {
+          "lovelace": 10866528851529
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1smy2r8jdvgna5ykhe8rrch7h4qalyfafyzyh0rmanmq0jxptww7",
+      "stake": {
+        "ada": {
+          "lovelace": 32783213253589
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445725
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1supp67ypelmgzuzqqvarc6czgmg3ggwpnrnfr90xpfcqqf8h05t",
+      "stake": {
+        "ada": {
+          "lovelace": 12430883609990
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622842
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1s7xvt9453rruhfdc90dy02xue82mnv2lzyqgzxx8ssmcq4fc3kj",
+      "stake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 4096456476
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 340000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13qzk5az6sx77lk2nt8zruu0t2tsyepu9q73yaz8l8j3uqxqh9wh",
+      "stake": {
+        "ada": {
+          "lovelace": 60613206968
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50007625834
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13q0r47yq43jljm9lnwza8uz57u420wuuwllrvkalxm6vwn2dq5n",
+      "stake": {
+        "ada": {
+          "lovelace": 1606671416554
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1470024917938
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 1470000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13xh3tgwzhr3hn25v5m2dnvqnfcmnzghcfah5t7kzufkywuy7w7v",
+      "stake": {
+        "ada": {
+          "lovelace": 1497513802178
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 500012905114
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13846y7q7tng3endxhet9qdcz5w0fjs09ytcye4dm5g54wmyqeqr",
+      "stake": {
+        "ada": {
+          "lovelace": 10883347997027
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 4096456476
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 340000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool138e249zh9l93azsf2pf7wyhxyayzcxdhsrg3vqpfx665c8xa348",
+      "stake": {
+        "ada": {
+          "lovelace": 1864946722336
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 627120246
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13gdtqme63jprkug3j4wzslhmu0yk4kdx323rtxpjuz7rqv3yyes",
+      "stake": {
+        "ada": {
+          "lovelace": 313517415481
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 160695221220
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "21/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13wzpwavanfpkr4r4j30plrlc6dn6p822lkt22zdllmy7q8y7s90",
+      "stake": {
+        "ada": {
+          "lovelace": 599686610478
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 326937623326
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 325000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13wwxqu7sj9cunca3gc8lunqtz8e5un9phrhq52870ful6jw6usm",
+      "stake": {
+        "ada": {
+          "lovelace": 250498703702
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250498703702
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "279/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool130f7tnlumxe5yuzsqqphy00cal8yugh5x66zgnz48zqyypns0k3",
+      "stake": {
+        "ada": {
+          "lovelace": 20870848085915
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 351998748609
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 350000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool130sxcuaxh2yc4chs68c4jsep4v7zfhgdqutm60ngdvt9sa2ga06",
+      "stake": {
+        "ada": {
+          "lovelace": 2751992737478
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2751992737478
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 2900000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13n4jzw847sspllczxgnza7vkq80m8px7mpvwnsqthyy2790vmyc",
+      "stake": {
+        "ada": {
+          "lovelace": 7520677802828
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250498621478
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13mgf226yj5a3kwcjfnguw2qpna2uv07w7gfn07g49kwd6tkmzsp",
+      "stake": {
+        "ada": {
+          "lovelace": 27280291846
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497203972
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1378u3xd5h393n0dwqszfw4dmen5vlmnm2fsdczd3v92n6dlw6qm",
+      "stake": {
+        "ada": {
+          "lovelace": 926379987922
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 75047447353
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 75000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13lvqv30e0zuk9kjextyhdemzpyefhjgd077xhmqy4gw4xuvcm5f",
+      "stake": {
+        "ada": {
+          "lovelace": 86640437350
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 75497600000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 75000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool13l0j202yexqh6l0awtee9g354244gmfze09utxz0sn7p7r3ev3m",
+      "stake": {
+        "ada": {
+          "lovelace": 588652208120
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 400101439741
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "4999/100000",
+        "pledge": {
+          "ada": {
+            "lovelace": 400000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jpezycd8q3l6a255dv8wt7vpt4aay8llqakdn7vkum5swes4hu3",
+      "stake": {
+        "ada": {
+          "lovelace": 221236890258
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 219501036403
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 219499000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jre4hpk3hwzlzh64nfsjkhe6gp4006sy2v8ktqre2qth7uswrtf",
+      "stake": {
+        "ada": {
+          "lovelace": 2605685541929
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1034231621214
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "4/125",
+        "pledge": {
+          "ada": {
+            "lovelace": 1033736000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jyutduy73e5u9877uns3k9rm0tf4r24j8lrn4xtkjpl3q5sn5mw",
+      "stake": {
+        "ada": {
+          "lovelace": 1920933420594
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 289648489735
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 290000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jx4ss2zjage3cw0wht3450328y82yeprmq4fr3e2qtac2rhezkv",
+      "stake": {
+        "ada": {
+          "lovelace": 69819727519298
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445725
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1j8nnq9j3ngh665tyxsfkjfxlqprj0ftq5aj38mlx7svhj0wm5s7",
+      "stake": {
+        "ada": {
+          "lovelace": 12996267376
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 12798610522
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 12700000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jgwu8lq3dqddnnx7prymcgcyrqy0fdlghg33he2hmw9t2gma3zd",
+      "stake": {
+        "ada": {
+          "lovelace": 241446532039
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 200598613470
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1j2fvu8gh25ctsx7fkyvkxpjfllzukcvu9nlsc92uj4sjwy4qzdf",
+      "stake": {
+        "ada": {
+          "lovelace": 6921644314
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 510000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jt7d6ak3m8gnjyxtuxfswe258xzwda80ndl0a57vv5m2zv8h6at",
+      "stake": {
+        "ada": {
+          "lovelace": 228277496848
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 216842105571
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 216842105571
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jjry6f6q0swaq457ft9eclaxaskvrxnpj0v3w8edsyfryml3vj6",
+      "stake": {
+        "ada": {
+          "lovelace": 709146710638
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 491597335
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 770000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jk25l2pejpdzq8vdjlxrr05th49v9tgd78fqrtxvuw3rumpfc6t",
+      "stake": {
+        "ada": {
+          "lovelace": 627651554494
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 108071621610
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/250",
+        "pledge": {
+          "ada": {
+            "lovelace": 108000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jhzf2mm6zdlhl6w89uhgx8nq8p6ykcc86qq58vjy0ejyxrrksfj",
+      "stake": {
+        "ada": {
+          "lovelace": 3908450094581
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497228348
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1jhh5u4q6r6ym8rl7lcf9qc8lgsds8sxh0kl6lajkh5wkgkq6efy",
+      "stake": {
+        "ada": {
+          "lovelace": 576645652845
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 19497624558
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 18000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1je2n5smmnyn3lh92xrp8nepjyfp596ypga6pmdecwtcrcj9uvec",
+      "stake": {
+        "ada": {
+          "lovelace": 200509763456
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50505273624
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "39/2000",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1j6zqawj6f58lp4p00t26eqe58gxx4pa3cudlzpkv23y92nlxjzd",
+      "stake": {
+        "ada": {
+          "lovelace": 202618480250
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "11/125",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1nhls8e9swnyshldgjknku4npreax075nw0ltrkmrarh4w3skxt9",
+      "stake": {
+        "ada": {
+          "lovelace": 1568637414044
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100500962181
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1nc8vcafsgemc2jx7mmze3sppakahrl4z5qqauw6znr93jfyqv6j",
+      "stake": {
+        "ada": {
+          "lovelace": 94618395377
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 20001613470
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "17/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 20000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1nudasuv0lljpe0tswcverqvlh0v4226vgnpsuxn0e9nkvnvcvne",
+      "stake": {
+        "ada": {
+          "lovelace": 142261753485
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 40597630234
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 40000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1num5a9mvz02pncerh6d8xdcvd7474l9p44jkrwk8srzz7563yrj",
+      "stake": {
+        "ada": {
+          "lovelace": 614101172935
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 211498634986
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 210000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1nl74emh67vuyt8cgv6gwhjnrctxgrpqlrdzznj4l3lh5j8lj3ah",
+      "stake": {
+        "ada": {
+          "lovelace": 625540016308
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445681
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool15zl6h526rcp836t6l94zk5mfrqlp4tvrq87xlnthzagwjyhrlna",
+      "stake": {
+        "ada": {
+          "lovelace": 52100762865
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 7629970
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool158ag8p06qm4apd750ekep6een9cdldqsq434ll2mp0ykgunmguy",
+      "stake": {
+        "ada": {
+          "lovelace": 966175663142
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 500002623590
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "79/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool152ha79a677s2skr5n9cethtg549nljxm2vlzqfgaf8hq67q3790",
+      "stake": {
+        "ada": {
+          "lovelace": 350966767925
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 97622006
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 597821255
+          }
+        }
+      }
+    },
+    {
+      "id": "pool15txd36fltfgc63qq0yxtpqt88eu76s0yhugn9a6q7f4zspq6k5f",
+      "stake": {
+        "ada": {
+          "lovelace": 536079850325
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 531543600000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "19/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 530000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool15w4gpc2zyg634j5yag0xq790h326fzcg4cvq67nmck3kxq4m5m5",
+      "stake": {
+        "ada": {
+          "lovelace": 170104430514
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50498611974
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool150hft90uw7tzr9uvj7tqkjp4u98a9hl20llj3n9ew76kkfm768r",
+      "stake": {
+        "ada": {
+          "lovelace": 284902749608
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 284902749608
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "199/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 360000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool155cu3s06js3llfh07vnzepatfuvt3s5s7uwldt9rzz55wz7pugt",
+      "stake": {
+        "ada": {
+          "lovelace": 24620152004829
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10497447749
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool15ccmgcc4k9t8auxw9v4dfjmrl2kqnuevawn8z6n7xv09utw9hh3",
+      "stake": {
+        "ada": {
+          "lovelace": 5416336363519
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 99345661051
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 98000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool15mfkj8sl7estcmmd5a07afrx5f4hlz3pcr6p6ay5pfmrjfl2hlf",
+      "stake": {
+        "ada": {
+          "lovelace": 538652442759
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 320397620422
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 320000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool15mv5w2vvfv2kplkrt40ylylyvdudv5axq5nyw6ln3v0gkd2auew",
+      "stake": {
+        "ada": {
+          "lovelace": 686300097056
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14qugk4juy7ds52glqhuveyntrmzr6ymaswyjhj9k53k3qdnfwpf",
+      "stake": {
+        "ada": {
+          "lovelace": 11532620598
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 11532620598
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 22000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14ga7m2hv6y89u4jv9yf8mf28tjs078j43l5h4zgpxqp7q6ey4d6",
+      "stake": {
+        "ada": {
+          "lovelace": 156783573254
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 101497623282
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 750000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14g73qj0qz05ymqg7dp9kxdu8jr7uuzm6z6n3jwxpvqskghhmhng",
+      "stake": {
+        "ada": {
+          "lovelace": 2822906843078
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 104698639474
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14wf6e8l64wktss9f30tjzm5th8u85vlc3sc4ulw87tfqkhdl3x6",
+      "stake": {
+        "ada": {
+          "lovelace": 159497623414
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 159497623414
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 160000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14wk2m2af7y4gk5uzlsmsunn7d9ppldvcxxa5an9r5ywek8330fg",
+      "stake": {
+        "ada": {
+          "lovelace": 908450797258
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 248976872015
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "11/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 248000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool140x77a7cz2j689lmxf836qpjtc3y83rka28v6gpswxdw2mag62e",
+      "stake": {
+        "ada": {
+          "lovelace": 250496926694
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 250496926694
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "39/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14ngh35fdapsa5sdtvr88vysakvafu0es9ltpquqzr6h56r6dh0h",
+      "stake": {
+        "ada": {
+          "lovelace": 97634937722
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50001423593
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14nl3h9l6mz3tutjl76849v33x409nl63md3d8ay7wrmnvujzrsk",
+      "stake": {
+        "ada": {
+          "lovelace": 78895594431
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 259440269
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "157/5000",
+        "pledge": {
+          "ada": {
+            "lovelace": 3141590
+          }
+        }
+      }
+    },
+    {
+      "id": "pool144m894gswuy3se407ma5870nkaw5ylykrak73gf4kpepj50ulfa",
+      "stake": {
+        "ada": {
+          "lovelace": 2687607624366
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 60497700000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 369000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 60000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14kg79f3v5lqfvp5etqvmy6m9kuzpnd80w5cl44qrl8tpuk00quc",
+      "stake": {
+        "ada": {
+          "lovelace": 693105168860
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 109763894574
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "21/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14hsxa2zfwzvy9ncdjwnx0xkcltjmdydeayxfju7suuuewv0dnke",
+      "stake": {
+        "ada": {
+          "lovelace": 39792690811
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10628616990
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool14mm59ntjqzphjr6chrww639cdr3yjce4qcwzc5jkk38y22u7uc6",
+      "stake": {
+        "ada": {
+          "lovelace": 40860105797173
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445461
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1krznhwu3h5pu2stuslr53z5rme50t6384macsmylcnljwc7yjky",
+      "stake": {
+        "ada": {
+          "lovelace": 2596030384228
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 56597222936
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 55000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ktgug7wwf9k4hcsuk68ftkh8xs5n0333fzxyw9sagz8njhlskgm",
+      "stake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1kterawv22xya864tqjy9pq2ftmuptlggywtqt3p7adexg7qyl6u",
+      "stake": {
+        "ada": {
+          "lovelace": 12712626322
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 8442337
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "39/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1kvd03hq8kp0hnxq9lq598a5amrvauj9m386rwx7ydawvjdskwnh",
+      "stake": {
+        "ada": {
+          "lovelace": 497985779340
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 218165442645
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "11/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 215000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1k0xrqp03mn9u3q3sadndd6vu9udl5v38xpzyw0shm8sskuxw2av",
+      "stake": {
+        "ada": {
+          "lovelace": 7943919719623
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445505
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ksh2zpeeqe0rpcug63up5l66g3kr5vf58jraeun82rur6m4g6xz",
+      "stake": {
+        "ada": {
+          "lovelace": 242481077427
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 495621522
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 450000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1k3sjc2sypvtrgne7gc7mlgv5pfu2pn4zdlyky9tkxzmckcp9mxr",
+      "stake": {
+        "ada": {
+          "lovelace": 702800639673
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 600000000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 600000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1kjd9ff9u5ytq4atavv2dfsg3pvxqw8d50642pzmpn386zel0ka8",
+      "stake": {
+        "ada": {
+          "lovelace": 1041538423174
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 53597620642
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1k5fu9x0sv47swapw9py3r4zf52tvpm77nnxvee75aaw0kew00t5",
+      "stake": {
+        "ada": {
+          "lovelace": 672894514092
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 225180907046
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "229/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 225000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1kkfkdces5mdcyc9dn2hgg3463jggjvw3h89nejjarkz25uavaqu",
+      "stake": {
+        "ada": {
+          "lovelace": 14575919929424
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1kh0cu3ka6f7twrv9fa22gyyfe5a8ks8ttmvzjgmd9mn4vd2t5ef",
+      "stake": {
+        "ada": {
+          "lovelace": 1836260050016
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 650042635866
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 650000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1kchver88u3kygsak8wgll7htr8uxn5v35lfrsyy842nkscrzyvj",
+      "stake": {
+        "ada": {
+          "lovelace": 414341709493
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "387/20000",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ku2ppcx5zgas98hfrl23xtak8u2wj3hsy3hglxhg9xp4qck5awm",
+      "stake": {
+        "ada": {
+          "lovelace": 692105823189
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 300497633094
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1hqemm6x7d4w89yjswycn3tckze7a7mcw9g458pmuggy7jm26m38",
+      "stake": {
+        "ada": {
+          "lovelace": 3747163095384
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 307197623942
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 307000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1h92047jmdgtp4ft2cw8gkf3a5745vffca97ay5stt72rkxm37kl",
+      "stake": {
+        "ada": {
+          "lovelace": 180573494765
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622842
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1htf4qwm5t82mefqkns5p7d5w30rk8xdduty434vchq2hcvwt6ka",
+      "stake": {
+        "ada": {
+          "lovelace": 212497640838
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 212497640838
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 350000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 210000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1hwlghkwnjsjk8370qt3dvp23d7urwm36f95fmxcz3np2kghknj9",
+      "stake": {
+        "ada": {
+          "lovelace": 63859882984283
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 830365449
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1h0prd5vcdv6uk7hglztdcqfp5czjqxdydxkxkdhg8rrk22mr4ym",
+      "stake": {
+        "ada": {
+          "lovelace": 22502623282
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 22502623282
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "11/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 22000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1h0524mtazrjnzqh5e4u060jsfk8lpsqqjfpa5gygjwuhqu34wvt",
+      "stake": {
+        "ada": {
+          "lovelace": 473843968651
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 499447749
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1h0anq89dytn6vtm0afhreyawcnn0w99w7e4s4q5w0yh3ymzh94s",
+      "stake": {
+        "ada": {
+          "lovelace": 194280178008
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 21778003
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 2000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1hsq2jrulgj97tna2femdhsfn2wurkkwt8uk9uvs42h9zs0a783p",
+      "stake": {
+        "ada": {
+          "lovelace": 423227294398
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 499447661
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1hjjj584gq0ynqf06g036a4a0stpm90asrdfskpasqjxf5948ygv",
+      "stake": {
+        "ada": {
+          "lovelace": 2601483652990
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1601485238380
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 4000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1h5jtxde8j86qrnqzj32ugn480u7gw5xw8wqy5d227rl3vfg58qz",
+      "stake": {
+        "ada": {
+          "lovelace": 90964025831
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 33496618970
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 420000000
+          }
+        },
+        "margin": "21/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 33333000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1hht4pctn70tqdsd0zwuxv8d8cz6l5scjzaquty7vamyzy78eqvc",
+      "stake": {
+        "ada": {
+          "lovelace": 1424687762518
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 682062551119
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 650000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1hhlzudyzp80xch7r0vamq58hpdnspagutvgqwptsmr0tk2425vf",
+      "stake": {
+        "ada": {
+          "lovelace": 495843210816
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497619938
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 900000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1hcg8sa642l0xeygkzvpgn3sfj5s2yeuzpws7a0gypyy7grrjcje",
+      "stake": {
+        "ada": {
+          "lovelace": 195749800827
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 95400000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1crprz3rdcwvfxmc0s4gxquh3qeqmscww2qfvpl93q52yyn7agsc",
+      "stake": {
+        "ada": {
+          "lovelace": 50497614614
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50497614614
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1c89d4drtwn0048mekkdkzllz559ahnntxelyw2mppxnmc36hjlx",
+      "stake": {
+        "ada": {
+          "lovelace": 4779770996076
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 403936981962
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 400000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1c8k78ny3xvsfgenhf4yzvpzwgzxmz0t0um0h2xnn2q83vjdr5dj",
+      "stake": {
+        "ada": {
+          "lovelace": 4735051869327
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 501097624250
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 501000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ctzja2cdwyeqnvehmrlclc5wrn9w9acwklk3acn73jrx56d66vs",
+      "stake": {
+        "ada": {
+          "lovelace": 6096780943022
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 501547444757
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1cduc7ut6grhqyavrmm3gzcdf4qfdsjk7vdwcxy9c0r5fyaxh2sq",
+      "stake": {
+        "ada": {
+          "lovelace": 513079018029
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 95400000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "89/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1cc76kmtcpf6vht32ya5ke9er74dnpy4jh5qpy4klqwp87ygdsu6",
+      "stake": {
+        "ada": {
+          "lovelace": 773222227744
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 403497630146
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "19/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 400000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1cuccvs6vdlrxw67kwvzdx3gcl3ha0402mkhhseqmre7u7vdkwev",
+      "stake": {
+        "ada": {
+          "lovelace": 6216826793709
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 500002623678
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ey3d522fefeuxvqrymw9l8wyevuu7my9t2uz2m0lmwfgjg060qr",
+      "stake": {
+        "ada": {
+          "lovelace": 299504818096
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 60021618222
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 60000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1e8vr85ank99g6fx2r7tjel2mh2jyfppnqy6nmp8vr0arys65n05",
+      "stake": {
+        "ada": {
+          "lovelace": 3981795047316
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 75497462005
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 75000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1efzvmtxl4n9z8ylegk9jhctclu44z7k0qg82mp2kp2ytqa9xgf0",
+      "stake": {
+        "ada": {
+          "lovelace": 234755157723
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 48499445637
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 48000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1etfar35l4tf6vam3gvqf5dnaq7levz32vgw4p00jzk7q7twg2te",
+      "stake": {
+        "ada": {
+          "lovelace": 4965145629213
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499446209
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1e0v3puyl9385sp8wa5gqq0dxmj97f9cf2r4weyah6ahuvxenhhy",
+      "stake": {
+        "ada": {
+          "lovelace": 42319436658
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 7626538
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "19/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1esgq3g4ll90ylfqg4rvdft06cdppyqc8urancufle6yrgpp5grw",
+      "stake": {
+        "ada": {
+          "lovelace": 260969643734
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 60945970357
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "17/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 60000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1e556526sqwugxwnmeumt9lhj5jukklg8vv3ynk75xt9vs7adr5y",
+      "stake": {
+        "ada": {
+          "lovelace": 7488089493006
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 8653422
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 200000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1e489239duee8dykj7ejx7dmazstwn6y6wfxc0kjaxw5hke5j4nv",
+      "stake": {
+        "ada": {
+          "lovelace": 436555019175
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 160274420777
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "7/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ek2m5zuydqcgqv3s5mlh55tr8gp76yuxe4hj4s7xtxajyc94rx3",
+      "stake": {
+        "ada": {
+          "lovelace": 24113527266
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497618882
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 101000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ekhy5xsgjaq38em75vevk8df0k0rljju77tljw288ys5kumqce5",
+      "stake": {
+        "ada": {
+          "lovelace": 16544225981389
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 115108000147
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 380000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 90000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ell3xjtspzzz4vtsatscan6rheltf7j3hh2s8qsam2h3jvcxzm9",
+      "stake": {
+        "ada": {
+          "lovelace": 2027480882712
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 501547444713
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool16qnvy60w5gwkr87qypaw2jrgndtr0cmwauv60m2p5lxzq5akftk",
+      "stake": {
+        "ada": {
+          "lovelace": 321042747669
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 2000623062
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 2000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool16fyda57p3c8gp5r6gmcq5tvqsp6mnzwvkxswgznkuh8wztrp6vv",
+      "stake": {
+        "ada": {
+          "lovelace": 3441320156991
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497400000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 250000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool16tcjctesjnks0p8sfrlf8f3d3vrp2fdn2msy80sgg3cdjtayu3z",
+      "stake": {
+        "ada": {
+          "lovelace": 12913561594848
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 850187620598
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 850000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool16dxn8c697qrqtzl3xe695trtde2hvgw0qtd65208ruaq70hv4ud",
+      "stake": {
+        "ada": {
+          "lovelace": 505235003167
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 4616286
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool16kus5xvdysgmtjp0hhlwt72tsm0yn2zcn0a8wg9emc6c75lxvmc",
+      "stake": {
+        "ada": {
+          "lovelace": 2343358308697
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 139035619894
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 138999000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool166dkk9kx5y6ug9tnvh0dnvxhwt2yca3g5pd5jaqa8t39cgyqqlr",
+      "stake": {
+        "ada": {
+          "lovelace": 6280687539899
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 200998642950
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 201000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1myvgx4ef424e6nw2strqq7dxcepav52plyyhxrk0avaw7y098l2",
+      "stake": {
+        "ada": {
+          "lovelace": 5249674994664
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 300495428697
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1m83drqwlugdt9jn7jkz8hx3pne53acfkd539d9cj8yr92dr4k9y",
+      "stake": {
+        "ada": {
+          "lovelace": 6601072352862
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 300000000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 800000000
+          }
+        },
+        "margin": "1/25",
+        "pledge": {
+          "ada": {
+            "lovelace": 300000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1mwp8ewtzmun0426v9z0h9um2amswgfzn78rckfl2fc3t5sy0m5g",
+      "stake": {
+        "ada": {
+          "lovelace": 100097425133
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100097425133
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1mn0ydnu5tt4w80y3dxdsajddhdz03p6mudk8vlh55r5exqywxhh",
+      "stake": {
+        "ada": {
+          "lovelace": 12167785304
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 11161614878
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 369000000
+          }
+        },
+        "margin": "369/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 10001000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1mn6relcs7dn2fqzfq5yjlwxa49d900p5sdpw62jlx45k2djgwe4",
+      "stake": {
+        "ada": {
+          "lovelace": 4958016221423
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "0/1",
+        "pledge": {
+          "ada": {
+            "lovelace": 0
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1mcvq2z34f9cfdmkd97famsh20ekqtndw246ny5e8ug3mxfdf4zq",
+      "stake": {
+        "ada": {
+          "lovelace": 822980796118
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 105267618926
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 105200000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1mugxe86p0p6fzeesthdzkuk3h9xtndf4my9cznmxtmpvujzlw4f",
+      "stake": {
+        "ada": {
+          "lovelace": 15681281456
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 9922624954
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 345000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 5000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1mu55cjeex6ft2pvppurt62gf5uxcx767ktkpj66696hpx6zhsed",
+      "stake": {
+        "ada": {
+          "lovelace": 100707918126
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100000000000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "17/400",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1maknvmsdvk240a7w8rclvq2lu5pzk906cuh9cw7j30z76ff257u",
+      "stake": {
+        "ada": {
+          "lovelace": 645249605898
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 600507617738
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/40",
+        "pledge": {
+          "ada": {
+            "lovelace": 600000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1mldur87x0z7j5wrfw0uh04twv0jem4c0cafsl3lhexfnka2ngxh",
+      "stake": {
+        "ada": {
+          "lovelace": 465712851210
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 175021639518
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 175000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1uq8l234306m76unyz8kuwnkvmtvazaks6vuvyx3a3khngavvcw0",
+      "stake": {
+        "ada": {
+          "lovelace": 3494242302526
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1u899yml96tf2cf4zkw4490mnhf832pk6fefnaluvt7487jmqzhg",
+      "stake": {
+        "ada": {
+          "lovelace": 104446589203
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100319117474
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ufx9c77avvds5eas2uqc5anxh3wjrr93vhxqeecsm4xuqzf9mtj",
+      "stake": {
+        "ada": {
+          "lovelace": 5047609950
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 5047609950
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 5000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1u2d3guvld9rk0586lyhk2n8kvkzmem7czwdltgem0mgczqd3ygu",
+      "stake": {
+        "ada": {
+          "lovelace": 1244125328939
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 995435297
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1u3v7s93f2d968a8kce6zgfmckfx56ly626jkml6jv7tgweplrn8",
+      "stake": {
+        "ada": {
+          "lovelace": 1928923503752
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 322450275604
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 322500000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ukeqarukv9gxwy9pt8jkr4qvad2yf87758g3xzemmvmtk8lrynp",
+      "stake": {
+        "ada": {
+          "lovelace": 473431773732
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 97600000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ucpygt4ds2ggf5lt8z5kzyvnwwr0ggrtqnl0pgawud5ls2cnnkl",
+      "stake": {
+        "ada": {
+          "lovelace": 148247623634
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 148247623634
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "39/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 148000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1u6kpt8hgqcm596kukj97ghefmxn8ks2cgwg8qqe0gtgscnufk5p",
+      "stake": {
+        "ada": {
+          "lovelace": 500495930786
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 500298620114
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/500",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ua0lx5ap5tj9f5l7tyjflp766ca5yu93djh5hqvm4e0kjgw5k7v",
+      "stake": {
+        "ada": {
+          "lovelace": 9560362645056
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 10017622798
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 10000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1art4z0ztc6kkzj8awrru6j2pv2eher45wca94ph954mnk7844n0",
+      "stake": {
+        "ada": {
+          "lovelace": 181978182814
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 497623854
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1a2nh3ktswllhwf07fjahpdg5mpqyq7j950pyftq9765r6t4cefl",
+      "stake": {
+        "ada": {
+          "lovelace": 22184860783156
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 501547444757
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "9/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 500000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1a3kdettzvvlqvkl9m9hwe63ggeq5fgvz0twqew5c62dzx99vsed",
+      "stake": {
+        "ada": {
+          "lovelace": 192298186570
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 50353427468
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 50146000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1a3u8zuz7fqavxgl48s8k37w8w6njk7zevlzyfjdlzxfexjcue6a",
+      "stake": {
+        "ada": {
+          "lovelace": 374736414334
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 160655622490
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 150000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1a5njhrg4s74vgynnae0hht04wgmcf75kwen3676jhrr5v3s8ecq",
+      "stake": {
+        "ada": {
+          "lovelace": 502621170
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 502621170
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 140000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ahl705cca5twdfmml0ksux606t8vmuemu9vsnf3g94mm7lhnhtv",
+      "stake": {
+        "ada": {
+          "lovelace": 25404141387
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 510000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1a600v0jd2z3yajazd80phln3exekumm7g56d9yvlrh6vx8dx2fc",
+      "stake": {
+        "ada": {
+          "lovelace": 3587082487241
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445505
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1a6ccp9fpgn40r2jl7fapjv3224swqf72z5gt4cgwctnk5etfjlr",
+      "stake": {
+        "ada": {
+          "lovelace": 121216437735
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 75098617298
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 75000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool17pv7m8h5dxsyt55upay8n8ake2cgcz4mcr737um2tl8d2wthzqr",
+      "stake": {
+        "ada": {
+          "lovelace": 80197329256
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1497623546
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/50",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool173mzegwuu0pjcrt60ekelzj5haqr8r5e4e0n45qh9jdz7xm5kh8",
+      "stake": {
+        "ada": {
+          "lovelace": 862961737927
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 115597618354
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "299/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 115000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool17k0rf90x8qcre7nrw5x4mgsfgy49njyqdq884qunm4fkslu6nye",
+      "stake": {
+        "ada": {
+          "lovelace": 103348025673
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 5497424253
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/200",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool17ahr5ygy48vpdfnatqn2z4wfu2te4quapk2yx3k50ce6kd7feg0",
+      "stake": {
+        "ada": {
+          "lovelace": 1192119134814
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 420000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 25000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1lyvtenf7325hsrtdgeqsv7yau6hyq7ztpdwwdeqcueh8s83h34l",
+      "stake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 0
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "333/10000",
+        "pledge": {
+          "ada": {
+            "lovelace": 59000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1lgdk6s5d6flv2sj0cgzz5es5vly8lg88k2e7457tc44hjf8pffk",
+      "stake": {
+        "ada": {
+          "lovelace": 881874374147
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 97001619278
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 97000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1lvsa8e0dw6z8g2fkw7prnfa7627wuy5jjexaadck6w5sxw5xkvm",
+      "stake": {
+        "ada": {
+          "lovelace": 8010037647459
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 515009600000
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 515000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ld9hkah2dkzh73pvh9tf6xr0x28us34msv3zcv2sase5vhvq962",
+      "stake": {
+        "ada": {
+          "lovelace": 6150431311145
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 400497616858
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/125",
+        "pledge": {
+          "ada": {
+            "lovelace": 400000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1ljlmfg7p37ysmea9ra5xqwccue203dpj40w6zlzn5r2cvjrf6tw",
+      "stake": {
+        "ada": {
+          "lovelace": 12027664293079
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1081202619630
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "11/400",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1lurfk0k0wwx54hlg8a7zp3jtstu57u59aeq7aketl55hknmmtu0",
+      "stake": {
+        "ada": {
+          "lovelace": 1423816078284
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 1000497621302
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 1000000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1lagcrwhhy24grdxpetj5vwwey6z8ncp7gx9gdd5p7gnd5f6urcc",
+      "stake": {
+        "ada": {
+          "lovelace": 115233406505
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 42997623854
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "17/1000",
+        "pledge": {
+          "ada": {
+            "lovelace": 42000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1llxh8l0h8g9ghz3nrzh7ndvev4x43vnk72nsemzm795vxqs6dp8",
+      "stake": {
+        "ada": {
+          "lovelace": 4184123550503
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 54499445769
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "1/20",
+        "pledge": {
+          "ada": {
+            "lovelace": 50000000000
+          }
+        }
+      }
+    },
+    {
+      "id": "pool1lllmq2jgcqrag5c77lpc5m34fsqn63leadyx9tzx842n66ly3ql",
+      "stake": {
+        "ada": {
+          "lovelace": 9293038372417
+        }
+      },
+      "ownerStake": {
+        "ada": {
+          "lovelace": 100007619674
+        }
+      },
+      "approximatePerformance": 0.885,
+      "parameters": {
+        "cost": {
+          "ada": {
+            "lovelace": 340000000
+          }
+        },
+        "margin": "3/100",
+        "pledge": {
+          "ada": {
+            "lovelace": 100000000000
+          }
+        }
+      }
+    }
+  ],
+  "totalRewards": {
+    "ada": {
+      "lovelace": 0
+    }
+  },
+  "totalStake": {
+    "ada": {
+      "lovelace": 31111977147073356
+    }
+  },
+  "activeStake": {
+    "ada": {
+      "lovelace": 1207029316828345
+    }
+  }
+}
